@@ -1,5 +1,4 @@
-
-<!-- <footer style="background-color: #262626; color: #FFFFFF;" class="page-footer font-small special-color-dark pt-4 mt-auto">
+<footer style="background-color: #262626; color: #FFFFFF;" class="page-footer font-small special-color-dark pt-4 mt-auto">
 
 
     <div class="footer-copyright text-center py-3">© 2022 Copyright:
@@ -8,4 +7,3 @@
 
 
 </footer>
- -->
