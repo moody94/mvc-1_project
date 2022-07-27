@@ -53,7 +53,7 @@
                 </div>
             </div>
         </main>
-        @include('footer')
+        <!-- @include('footer') -->
     </div>
 </body>
 

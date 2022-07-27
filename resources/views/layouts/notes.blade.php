@@ -55,7 +55,7 @@
                 @yield('content')
             </div>
         </main>
-        @include('footer')
+        <!-- @include('footer') -->
     </div>
 </body>
 

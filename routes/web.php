@@ -22,6 +22,7 @@ Route::get('/', function () {
 
 Auth::routes();
 
+
 Route::get('/notes', function (req $request) {
     $todos = $request->session()->get('todos');
 
