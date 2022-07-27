@@ -11,12 +11,12 @@ build:
         hosts:
             laravel.dev: '127.0.0.1'
         variables:
-            APP_KEY: 'base64:zOltNsmgj8zCd0Bz0LkD+H9Q8pCoSq4OLPrpdLfyD6E='
+            APP_KEY: 'base64:PR8VagGyQa4jB7JELm9xg7U1C1sdJeQR5Ot1vAQJe/o='
             APP_ENV: 'testing'
             APP_URL: 'http://laravel.dev'
             API_HOST: 'laravel.dev'
             DB_HOST: '127.0.0.1'
-            DB_DATABASE: 'scrutinizer'
+            DB_DATABASE: 'laravel'
             DB_USERNAME: 'root'
             DB_PASSWORD: 'root'
             MAIL_DRIVER: 'log'
