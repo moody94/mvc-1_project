@@ -1,0 +1,496 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-cygwin
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Wed Jul 27 20:53:45 2022
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\moody
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+LOCALAPPDATA = C:\Users\moody\AppData\Local
+# makefile (from 'Makefile', line 2)
+VENDORBIN := vendor/bin
+# environment
+VSCODE_CWD = C:\Users\moody\dbwebb-kurser\mvc\me\kmom10
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_22032_TKKLGHGVYRFFVTJB
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /cygdrive/c/Users/moody/dbwebb-kurser/mvc/me/kmom10
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+HOSTNAME = LAPTOP-8LN62RKI
+# makefile (from 'Makefile', line 4)
+PHPCS := .bin/phpcs
+# environment
+OLDPWD = /cygdrive/c/Users/moody/dbwebb-kurser/mvc/me
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\moody\AppData\Roaming\Code\CachedData\3b889b090b5ad5793f524b5d1d39fda662b96a2a
+# environment
+PROFILEREAD = true
+# environment
+LANG = C
+# makefile (from 'Makefile', line 6)
+PHPCPD := .bin/phpcpd
+# default
+.LOADED := 
+# environment
+TMP = /tmp
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# makefile (from 'Makefile', line 9)
+PHPUNIT := vendor/bin/phpunit
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\moody\OneDrive
+# makefile
+CURDIR := /cygdrive/c/Users/moody/dbwebb-kurser/mvc/me/kmom10
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+!C: = c:\Users\moody\dbwebb-kurser\mvc\me\kmom10
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+MINTTY_SHORTCUT = /cygdrive/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Cygwin/Cygwin64 Terminal.lnk
+# environment
+VSCODE_PID = 22032
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVECONSUMER = C:\Users\moody\OneDrive
+# default
+MAKE_HOST := x86_64-pc-cygwin
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+INFOPATH = /usr/local/info:/usr/share/info:/usr/info
+# makefile
+SHELL = /bin/sh
+# environment
+ORIGINAL_PATH = /cygdrive/c/Python39/Scripts:/cygdrive/c/Python39:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/ProgramData/chocolatey/bin:/cygdrive/c/Program Files/Graphviz/bin:/cygdrive/c/Program Files/nodejs:/cygdrive/c/Program Files/MongoDB/Server/5.0/bin:/cygdrive/c/Users/moody/AppData/Local/Programs/mongosh:/cygdrive/c/Program Files/Docker/Docker/resources/bin:/cygdrive/c/ProgramData/DockerDesktop/version-bin:/cygdrive/c/ProgramData/ComposerSetup/bin:/cygdrive/c/Program Files/MySQL/MySQL Server 8.0/bin:/cygdrive/c/Users/moody/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/moody/AppData/Local/Programs/Microsoft VS Code/bin:/cygdrive/c/xampp/php:/cygdrive/c/Users/moody/AppData/Roaming/npm:/cygdrive/c/Users/moody/AppData/Local/GitHubDesktop/bin:/cygdrive/c/Users/moody/AppData/Local/Programs/mongosh:/cygdrive/c/Users/moody/AppData/Local/gitkraken/bin:/cygdrive/c/Users/moody/AppData/Roaming/Composer/vendor/bin
+# environment
+HOMEPATH = \Users\moody
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 2
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /usr/local/bin:/usr/bin:/cygdrive/c/Python39/Scripts:/cygdrive/c/Python39:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/WINDOWS/System32/OpenSSH:/cygdrive/c/ProgramData/chocolatey/bin:/cygdrive/c/Program Files/Graphviz/bin:/cygdrive/c/Program Files/nodejs:/cygdrive/c/Program Files/MongoDB/Server/5.0/bin:/cygdrive/c/Users/moody/AppData/Local/Programs/mongosh:/cygdrive/c/Program Files/Docker/Docker/resources/bin:/cygdrive/c/ProgramData/DockerDesktop/version-bin:/cygdrive/c/ProgramData/ComposerSetup/bin:/cygdrive/c/Program Files/MySQL/MySQL Server 8.0/bin:/cygdrive/c/Users/moody/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/moody/AppData/Local/Programs/Microsoft VS Code/bin:/cygdrive/c/xampp/php:/cygdrive/c/Users/moody/AppData/Roaming/npm:/cygdrive/c/Users/moody/AppData/Local/GitHubDesktop/bin:/cygdrive/c/Users/moody/AppData/Local/Programs/mongosh:/cygdrive/c/Users/moody/AppData/Local/gitkraken/bin:/cygdrive/c/Users/moody/AppData/Roaming/Composer/vendor/bin
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = LAPTOP-8LN62RKI
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+ 
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132624547997297362
+# environment
+TZ = Europe/Stockholm
+# environment
+LOGONSERVER = \\LAPTOP-8LN62RKI
+# environment
+USERNAME = moody
+# environment
+TERM_PROGRAM = mintty
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# environment
+PRINTER = Microsoft Print to PDF
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# automatic
++F = $(notdir $+)
+# makefile (from 'Makefile', line 3)
+PHPLOC := .bin/phploc
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = LAPTOP-8LN62RKI
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+__COMPAT_LAYER = Win8RTM
+# environment
+EXECIGNORE = *.dll
+# makefile
+.DEFAULT_GOAL := all
+# environment
+USER = moody
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = LAPTOP-8LN62RKI
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+PUBLIC = C:\Users\Public
+# environment
+_ = /cygdrive/c/Users/moody/AppData/Local/Programs/Microsoft VS Code/Code.exe
+# makefile (from 'Makefile', line 1)
+BIN := .bin
+# environment
+APPDATA = C:\Users\moody\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+LC_CTYPE = en_GB.UTF-8
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# makefile (from 'Makefile', line 5)
+PHPCBF := .bin/phpcbf
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+ 
+HOME = /home/moody
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /tmp
+# environment
+TERM = xterm
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\204291c10ead5f8c7fc20658a6bab817-1.69.2-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+ 
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# makefile (from 'Makefile', line 7)
+PHPMD := .bin/phpmd
+# environment
+SESSIONNAME = Console
+# makefile (from 'Makefile', line 8)
+PHPSTAN := vendor/bin/phpstan
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# environment
+PROCESSOR_REVISION = 8c01
+# environment
+TERM_PROGRAM_VERSION = 3.4.7
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+# variable set hash-table stats:
+# Load=124/1024=12%, Rehash=0, Collisions=15/162=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 1816172008, inode 20829148276662175): 40 files, no impossibilities.
+
+# 40 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+lint: cs phpcpd phpmd phpstan
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean-all: clean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 21):
+ 
+	rm -rf .bin vendor composer.lock
+
+phploc: prepare
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 65):
+	[ ! -d src ] || $(PHPLOC) src | tee build/phploc
+
+clean-cache:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 18):
+	rm -rf cache/*/*
+
+phpmd: prepare
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 81):
+	- [ ! -f .phpmd.xml ] || [ ! -d app ] || $(PHPMD) . text .phpmd.xml | tee build/phpmd
+
+phpcbf:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 74):
+	- [ ! -f .phpcs.xml ] || $(PHPCBF) --standard=.phpcs.xml src
+
+ 
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-21 22:37:49.6255681
+#  File has been updated.
+#  Successfully updated.
+
+install-php-tools:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 27):
+	install -d .bin
+	# phploc
+	curl -Lso $(PHPLOC) https://phar.phpunit.de/phploc.phar && chmod 755 $(PHPLOC)
+	# phpcs
+	curl -Lso $(PHPCS) https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar && chmod 755 $(PHPCS)
+	# phpcbf
+	curl -Lso $(PHPCBF) https://squizlabs.github.io/PHP_CodeSniffer/phpcbf.phar && chmod 755 $(PHPCBF)
+	# phpcpd
+	curl -Lso $(PHPCPD) https://phar.phpunit.de/phpcpd.phar && chmod 755 $(PHPCPD)
+	# phpmd
+	curl -Lso $(PHPMD) https://github.com/phpmd/phpmd/releases/download/2.9.1/phpmd.phar && chmod 755 $(PHPMD)
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 15):
+	rm -rf build .phpunit.result.cache
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+phpcs: prepare
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 68):
+	[ ! -f .phpcs.xml ] || $(PHPCS) --standard=.phpcs.xml | tee build/phpcs
+
+all:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := all
+# automatic
+# * := 
+# automatic
+# < := 
+# automatic
+# + := 
+# automatic
+# % := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# automatic
+# | := 
+# variable set hash-table stats:
+ 
+# Load=8/32=25%, Rehash=0, Collisions=1/11=9%
+#  recipe to execute (from 'Makefile', line 12):
+	@echo "Review the file 'Makefile' to see what targets are supported."
+
+prepare:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 61):
+	[ -d build ] || mkdir build
+	rm -rf build/*
+
+check-version:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 45):
+	uname -a
+	@which make
+	make --version
+	@which php
+	php --version
+	@which composer
+ 
+	composer --version
+	$(PHPLOC) --version
+	$(PHPCS) --version
+	$(PHPCBF) --version
+	$(PHPCPD) --version
+	$(PHPMD) --version
+	$(PHPSTAN) --version
+	$(PHPUNIT) --version
+
+metric: phploc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+test: lint phpunit
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 94):
+	composer validate
+
+phpcpd: prepare
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 78):
+	$(PHPCPD) app | tee build/phpcpd
+
+install: install-php-tools
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+ 
+#  recipe to execute (from 'Makefile', line 24):
+	composer install
+
+phpunit: prepare
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 87):
+	[ ! -f .phpunit.xml ] || XDEBUG_MODE=coverage $(PHPUNIT) --configuration .phpunit.xml $(options) | tee build/phpunit
+
+cs: phpcs
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+phpstan: prepare
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 84):
+	- [ ! -f .phpstan.neon ] || $(PHPSTAN) analyse -c .phpstan.neon | tee build/phpstan
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=22/1024=2%, Rehash=0, Collisions=0/51=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 62 / storage = 609 B / avg = 9 B
+# current buf: size = 8162 B / used = 609 B / count = 62 / avg = 9 B
+
+# strcache performance: lookups = 103 / hit rate = 39%
+# hash-table stats:
+# Load=62/8192=1%, Rehash=0, Collisions=0/103=0%
+# Finished Make data base on Wed Jul 27 20:53:45 2022
+
+ 

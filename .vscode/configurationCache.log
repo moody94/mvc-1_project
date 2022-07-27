@@ -1,0 +1,1 @@
+{"buildTargets":["all","check-version","clean","clean-all","clean-cache","cs","install","install-php-tools","lint","metric","phpcbf","phpcpd","phpcs","phploc","phpmd","phpstan","phpunit","prepare","test"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

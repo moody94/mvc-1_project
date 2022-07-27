@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/moody/dbwebb-kurser/mvc/me/kmom10'
+echo "Review the file 'Makefile' to see what targets are supported."
+make: Leaving directory '/cygdrive/c/Users/moody/dbwebb-kurser/mvc/me/kmom10'
+ 

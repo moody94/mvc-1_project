@@ -1,0 +1,9 @@
+parameters:
+    level: 5
+    paths:
+        - config
+        - app/Todo.php
+        - app/Http/Controllers/NotesController.php
+        #- test
+    bootstrapFiles:
+        - .phpstan.constants.php

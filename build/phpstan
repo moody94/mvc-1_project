@@ -1,0 +1,17 @@
+ ------ ------------------------------------------------------------------------------------ 
+  [32mLine[39m   [32mapp\Http\Controllers\NotesController.php[39m                                            
+ ------ ------------------------------------------------------------------------------------ 
+  46     Access to an undefined property Illuminate\Contracts\Auth\Authenticatable::$name.   
+  47     Access to an undefined property Illuminate\Contracts\Auth\Authenticatable::$email.  
+  63     Access to an undefined property Illuminate\Contracts\Auth\Authenticatable::$email.  
+  75     Access to an undefined property Illuminate\Contracts\Auth\Authenticatable::$email.  
+  97     Call to an undefined method App\Todo::find().                                       
+  104    Access to an undefined property Illuminate\Contracts\Auth\Authenticatable::$name.   
+  106    Access to an undefined property Illuminate\Contracts\Auth\Authenticatable::$email.  
+ ------ ------------------------------------------------------------------------------------ 
+
+
+[37;41m                                                                                                                        [39;49m
+[37;41m [ERROR] Found 7 errors                                                                                                 [39;49m
+[37;41m                                                                                                                        [39;49m
+
