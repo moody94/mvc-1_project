@@ -7,7 +7,7 @@ filter:
 build:
     environment:
         php: '7.4'
-        mysql: '5.7'
+        # mysql: '5.7'
         # hosts:
             # laravel.dev: '127.0.0.1'
         # variables:
