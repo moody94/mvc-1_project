@@ -1,18 +1,13 @@
 
 [![TravisCI](https://app.travis-ci.com/moody94/mvc-1_project.svg?branch=main)](https://app.travis-ci.com/moody94/mvc-1_project)
-
-
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/moody94/mvc-1_project/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/moody94/mvc-1_project/?branch=main)
-
 [![Build Status](https://scrutinizer-ci.com/g/moody94/mvc-1_project/badges/build.png?b=main)](https://scrutinizer-ci.com/g/moody94/mvc-1_project/build-status/main)
-
-
 [![CircleCI](https://circleci.com/gh/moody94/mvc-1_project/tree/main.svg?style=svg)](https://circleci.com/gh/moody94/mvc-1_project/tree/main)
 
 
 
 
-
+# TODO List
 
 
 
@@ -21,22 +16,21 @@
 After downloading the application from GitHub on your computer you need to run composer and npm to install the packages that you need in this app by running the commands
 
 ## Installation
-'''
-    composer update
-    composer install
-    npm install
-'''
+
+`composer install`
+`npm install`
+
+
 
 The next step is creating your MySQL database and that the database information that you need to this app:
-'''
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=laravel
-    DB_USERNAME=root
-    DB_PASSWORD=root
+`DB_CONNECTION=mysql`
+`DB_HOST=127.0.0.1`
+`DB_PORT=3306`
+`DB_DATABASE=laravel`
+`DB_USERNAME=root`
+`DB_PASSWORD=root`
 
-'''
+
 
 Now you have a database but you need the tables that you use in the application of the database do you need to num this command to create the tables on the database
 
